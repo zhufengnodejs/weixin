@@ -1,0 +1,19 @@
+{
+  "name": "weixin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "utils.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "express-session": "^1.15.2",
+    "request": "^2.81.0",
+    "uuid": "^3.0.1"
+  }
+}
